@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, My name is Rahmatillo
 
-<!--
-**Rahmatillo05/Rahmatillo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am FullStack Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a web FullStack developer, I have participated in and prepared quite a few projects!
+In these projects, I used and continue to use PHP, JavaScript, jQuery and Yii2 technologies, as well as a MySQL database!
+
+Skills: PHP, JavaScript, Yii2, React, MySQL, CSS, HTML
+
+<a href="https://github.com/RAHMATILLOo3o5/">GitHub</a>
+<a href="https://www.instagram.com/husanboyev2oo5/">Instagram</a> <br>
+<a href="https://www.youtube.com/channel/UCwIcaldmRF6nQ9b2lmX3NrA">YouTube</a>
+<a href="https://t.me/Rahmatillo_2oo5">Telegram</a>
