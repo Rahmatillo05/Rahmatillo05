@@ -1,14 +1,37 @@
-### Hi there 👋, My name is Rahmatillo
+# 💫 About Me:
 
-#### I am FullStack Developer
+👋 Hi, My name is Rahmatullo.<br>👨‍💻 Currently, I am working on myself to improve my skills.<br>👀 I am Backend developer
+and my main programming language is PHP☕<br>🌱 I’m currently learning Dark and Flutter<br>✈️ Connect with Telegram<br>📃
+Resume
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/husanboyev2oo5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmatillo-husanboyev-890a36248) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dreamteam2o23)
+
+# 💻 Tech Stack:
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Rahmatillo05&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rahmatillo05&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatillo05&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rahmatillo05&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rahmatillo05&icon=5&color=1)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/rahmatullo)
 
 
-As a web FullStack developer, I have participated in and prepared quite a few projects!
-In these projects, I used and continue to use PHP, JavaScript, jQuery and Yii2 technologies, as well as a MySQL database!
-
-Skills: PHP, JavaScript, Yii2, React, MySQL, CSS, HTML
-
-<a href="https://github.com/RAHMATILLOo3o5/">GitHub</a>
-<a href="https://www.instagram.com/husanboyev2oo5/">Instagram</a> <br>
-<a href="https://www.youtube.com/channel/UCwIcaldmRF6nQ9b2lmX3NrA">YouTube</a>
-<a href="https://t.me/Rahmatillo_2oo5">Telegram</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
