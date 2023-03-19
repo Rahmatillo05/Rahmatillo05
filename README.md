@@ -24,7 +24,7 @@ and my main programming language is PHP☕<br>🌱 I’m currently learning Dark
 
 ![](https://github-profile-trophy.vercel.app/?username=Rahmatillo05&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Motivation
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
