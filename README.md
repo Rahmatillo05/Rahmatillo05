@@ -24,9 +24,6 @@ and my main programming language is PHP☕<br>🌱 I’m currently learning Lara
 
 ![](https://github-profile-trophy.vercel.app/?username=Rahmatillo05&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Motivation
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahmatillo05&icon=5&color=1)](https://visitcount.itsvg.in)
