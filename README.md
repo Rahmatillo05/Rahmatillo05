@@ -12,17 +12,10 @@ and my main programming language is PHP☕<br>🌱 I’m currently learning Lara
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Rahmatillo05&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # ✍️ Top Languages Card
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatillo05&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rahmatillo05&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
 ---
